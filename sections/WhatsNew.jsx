@@ -19,7 +19,7 @@ const WhatsNew = () => (
       <motion.div className=" text-white flex flex-1  flex-col  ">
         <p className="text-[#C7C7C780]">How Metaverus Works</p>
         <motion.h2
-          className="font-bold md:text-[55px] text-[40px]   md:leading-[80px]"
+          className="font-bold md:text-[55px] text-[40px]   md:leading-[80px] "
           variants={textVariant2}
         >
           What's new about <br></br> Metaversus?
